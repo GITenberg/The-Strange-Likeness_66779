@@ -1,0 +1,32 @@
+_repo: The-Strange-Likeness_66779
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grove, Harriet Pyne
+    gutenberg_agent_id: '37167'
+    url: http://www.gutenberg.org/2009/agents/37167
+description: ''
+gutenberg_issued: '2021-11-21'
+identifiers:
+  gutenberg: '66779'
+language: en
+pgterms:marc905: 20160812135018grove
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Stephen Hutcheson, MFR, Sue Clark, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :The Saalfield Publishing Company,1929.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chicago (Ill.) -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcsh 'Mistaken identity -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Vacations -- West (U.S.) -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Boarding school students -- Juvenile fiction'
+- GITenberg
+title: The Strange Likeness
+url: http://www.gutenberg.org/ebooks/66779
